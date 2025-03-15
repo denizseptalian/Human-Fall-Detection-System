@@ -1,10 +1,10 @@
 # Human-Fall-Detection-System
 Human Fall Detection System is a deep learning-based solution for detecting falls using video or sensor data. It is designed for elderly care, healthcare monitoring, and emergency response systems to improve safety and provide quick assistance.
 Key features:
-✅ Real-Time Detection using OpenCV & deep learning
-✅ Pretrained Models (ResNet) for accurate human detection
-✅ Custom Dataset Support to enhance fall detection accuracy
-✅ Alert System via email, SMS, or Telegram notifications
+-✅ Real-Time Detection using OpenCV & deep learning
+-✅ Pretrained Models (ResNet) for accurate human detection
+-✅ Custom Dataset Support to enhance fall detection accuracy
+-✅ Alert System via email, SMS, or Telegram notifications
 
 # Human Fall Detection System  
 
@@ -28,7 +28,9 @@ This project detects human falls using deep learning and computer vision. It is 
 - Flask (for API)  
 
 ### Setup  
-1. Clone the repository:  
+1. DataSet
+   https://drive.google.com/drive/folders/1uOVSPTPRBXG4S_0epmuKIYCXbQ840ZII?usp=sharing
+2. Clone the repository: 
    ```bash
    git clone https://github.com/yourusername/human-fall-detection.git
    cd human-fall-detection
