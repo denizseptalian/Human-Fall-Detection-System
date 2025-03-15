@@ -2,7 +2,7 @@
 Human Fall Detection System is a deep learning-based solution for detecting falls using video or sensor data. It is designed for elderly care, healthcare monitoring, and emergency response systems to improve safety and provide quick assistance.
 Key features:
 ✅ Real-Time Detection using OpenCV & deep learning
-✅ Pretrained Models (YOLO, EfficientNet, ResNet) for accurate human detection
+✅ Pretrained Models (ResNet) for accurate human detection
 ✅ Custom Dataset Support to enhance fall detection accuracy
 ✅ Alert System via email, SMS, or Telegram notifications
 
