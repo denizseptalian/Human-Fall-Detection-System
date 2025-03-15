@@ -25,7 +25,7 @@ This project detects human falls using deep learning and computer vision. It is 
 - OpenCV  
 - TensorFlow / Keras  
 - NumPy  
-- Flask (for API)  
+
 
 ### Setup  
 1. DataSet
