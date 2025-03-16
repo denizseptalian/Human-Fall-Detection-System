@@ -5,7 +5,7 @@ Human Fall Detection System is a deep learning-based solution for detecting fall
 - Real-Time Detection using OpenCV & deep learning
 - Pretrained Models (ResNet) for accurate human detection
 - Custom Dataset Support to enhance fall detection accuracy
-- Alert System via email, SMS, or Telegram notifications
+
 
 # Dataset
 https://drive.google.com/drive/folders/1uOVSPTPRBXG4S_0epmuKIYCXbQ840ZII?usp=sharing
